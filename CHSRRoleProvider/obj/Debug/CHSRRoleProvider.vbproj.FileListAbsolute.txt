@@ -40,7 +40,8 @@ C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\bin\Debug\C
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\bin\Debug\CHSRRoleProvider.pdb
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\bin\Debug\CHSRRoleProvider.xml
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Debug\CHSRRoleProvider.Resources.resources
-C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Debug\CHSRRoleProvider.vbproj.GenerateResource.Cache
+C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Debug\CHSRRoleProvider.vbproj.GenerateResource.cache
+C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Debug\CHSRRoleProvider.vbproj.CoreCompileInputs.cache
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Debug\CHSRRoleProvider.dll
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Debug\CHSRRoleProvider.xml
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Debug\CHSRRoleProvider.pdb
