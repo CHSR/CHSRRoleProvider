@@ -9,10 +9,10 @@ C:\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.vbproj.Generat
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\bin\Release\CHSRRoleProvider.dll
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\bin\Release\CHSRRoleProvider.pdb
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\bin\Release\CHSRRoleProvider.xml
-C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.vbprojResolveAssemblyReference.cache
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.Resources.resources
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.vbproj.GenerateResource.Cache
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.vbproj.CoreCompileInputs.cache
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.dll
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.xml
 C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.pdb
+C:\Users\cp932249\Documents\GitHub\CHSRRoleProvider\CHSRRoleProvider\obj\Release\CHSRRoleProvider.vbprojAssemblyReference.cache
